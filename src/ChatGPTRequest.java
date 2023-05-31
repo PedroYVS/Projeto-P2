@@ -11,4 +11,5 @@ public class ChatGPTRequest {
     private String model;
     private String prompt;
     private int max_tokens;
+    private int n;
 }
